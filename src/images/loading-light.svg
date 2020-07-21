@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="1.82702851%" y1="2.72552286%" x2="123.797376%" y2="179.813508%" id="linearGradient-1">
+            <stop stop-color="#FFF" offset="0%"></stop>
+            <stop stop-color="#FFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-FINAL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="User-Profile-Public" transform="translate(-1163.000000, -3987.000000)" stroke="url(#linearGradient-1)" stroke-width="5">
+            <path d="M1189,4036 C1201.70255,4036 1212,4025.70255 1212,4013 C1212,4007.24199 1209.88411,4001.97816 1206.38743,3997.94364 C1202.17022,3993.07776 1195.94453,3990 1189,3990 C1176.29745,3990 1166,4000.29745 1166,4013" id="Oval-5"></path>
+        </g>
+    </g>
+</svg>
